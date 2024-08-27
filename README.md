@@ -17,5 +17,6 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/chat-app-backend.git
+   git clone https://github.com/surendranath-chakraborty
+surendranath-chakraborty/chat-app-backend.git
    cd chat-app-backend
